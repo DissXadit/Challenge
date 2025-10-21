@@ -1,0 +1,14 @@
+/* Fix Bulma icon overlap issue */
+.password-field {
+    position: relative;
+}
+
+.password-toggle {
+    pointer-events: auto;
+    cursor: pointer;
+    z-index: 5;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+}
