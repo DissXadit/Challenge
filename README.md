@@ -147,3 +147,14 @@ Semoga aplikasi ini memenuhi semua kriteria challenge dan berhasil mendapatkan h
 
 DissXadit – Developer aplikasi ini
 📍 GitHub Profile
+![WhatsApp Image 2025-10-22 at 00 25 05](https://github.com/user-attachments/assets/411a5f76-98a1-4efa-9366-931c0ade1faa)
+![WhatsApp Image 2025-10-22 at 00 25 34](https://github.com/user-attachments/assets/72315935-e34d-4828-bcee-02078e1d0218)
+![WhatsApp Image 2025-10-22 at 00 25 56](https://github.com/user-attachments/assets/ba0da544-ed40-43aa-b35b-85e555f69aaa)
+![WhatsApp Image 2025-10-22 at 00 27 41](https://github.com/user-attachments/assets/a7815ef6-fbaf-42fe-b914-43009f7b4472)
+![WhatsApp Image 2025-10-22 at 00 27 58](https://github.com/user-attachments/assets/f94a7d2e-dc9e-4a89-a22f-e4cbc0add8cb)
+![WhatsApp Image 2025-10-22 at 00 28 43](https://github.com/user-attachments/assets/14a52847-0932-4ad5-b1dc-f9cb5b9160e7)
+![WhatsApp Image 2025-10-22 at 00 28 15](https://github.com/user-attachments/assets/6226a363-b17b-4650-ae40-31250fab3402)
+![WhatsApp Image 2025-10-22 at 00 24 44](https://github.com/user-attachments/assets/efa32090-be9e-4739-8594-5541a77b3646)
+
+
+
