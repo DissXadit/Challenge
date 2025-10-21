@@ -37,11 +37,6 @@ Challenge/
 ├── package.json
 └── .env
 
-yaml
-Copy code
-
----
-
 ## ⚙️ Cara Menjalankan Proyek (Development)  
 ### 1. Clone repository  
 ```bash
