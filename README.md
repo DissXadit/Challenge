@@ -13,8 +13,7 @@
 - Autentikasi: JWT (JSON Web Token) + HttpOnly cookie (refresh token)  
 - Hashing password: bcrypt  
 - HTTP Client: Axios  
-- Styling/Design: (misalnya Bulma / Tailwind / Bootstrap)  
-- Bonus (jika ada): Rate-limit, Unit Test, Dark Mode, Animasi Loading, Deploy publik  
+- Styling/Design: Bulma
 
 ---
 
@@ -43,7 +42,7 @@ Challenge/
 git clone https://github.com/DissXadit/Challenge.git
 cd Challenge
 
-Setup Backend
+### 2. Setup Backend
 cd backend
 npm install
 
@@ -67,7 +66,7 @@ npm run dev
 
 Server berjalan di: http://localhost:5000
 
-3. Setup Frontend
+### 3. Setup Frontend
 cd ../frontend
 npm install
 npm run dev
@@ -115,16 +114,6 @@ UX tambahan: tombol “Show/Hide Password”, animasi loading saat request login
 
 Desain responsif (mobile & desktop).
 
-📦 Bonus (jika diterapkan)
-
-Rate-limit untuk endpoint login (contoh: max 5 percobaan per menit per IP).
-
-Unit test sederhana (misalnya test validasi form di frontend, atau endpoint login di backend).
-
-Dark mode toggle (UI bisa berganti tema).
-
-Deploy ke platform publik (misalnya Vercel, Render, Railway) — link deploy: [isi jika ada]
-
 📸 Screenshot UI
 
 Sertakan 3–5 screenshot dari aplikasi 
@@ -148,6 +137,3 @@ Semoga aplikasi ini memenuhi semua kriteria challenge dan berhasil mendapatkan h
 
 DissXadit – Developer aplikasi ini
 📍 GitHub Profile
-
-
-
